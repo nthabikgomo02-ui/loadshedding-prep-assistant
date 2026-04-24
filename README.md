@@ -1,6 +1,6 @@
 # Loadshedding Safety AI 🇿🇦⚡
 **Responsible AI for South African Infrastructure Crisis**  
-`Google AI Essentials Capstone` | `Live Demo: https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%2217qNiaS7L1u8kDZ78k_o_fAMcZoPodat_nq42S09P1lC%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%221131791035454065331%22%2C%22resourceKeys%22%3A%7B%22k%22%3A%22k%22%7D%7D&usp=sharing`
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22%3A%5B%2217qNiaS7L1u8kDZ78k_o_fAMcZoPodat_nq42S09P11C%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%221131791035454065331%22%2C%22resourceKeys%22%3A%7B%22k%22%3A%22k%22%7D%7D&usp=sharing)**
 
 **Problem:** Stage 6 = spoiled insulin, fire risks, illegal meter-tampering advice spreading online.
 
